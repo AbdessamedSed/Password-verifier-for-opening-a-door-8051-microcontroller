@@ -1,5 +1,5 @@
 # Password-verifier-for-opening-a-door-8051-microcontroller
-embedded system using 8051 microcontroller to lock a door for safety reasons
+Embedded system using 8051 microcontroller to lock a door for safety reasons
 
 In the program first we import the 8051-family header file which contain all the necessary classes. Then we assign every connected pin to the variables. In keypad we assign variable as keyrow1 to keyrows4 for keypad rows and keycolumn1 to keycolumn3 for keypad columns. Then we connected the motor pins and lcd pins in the variable called motor pins and rs, rw and en.
 
